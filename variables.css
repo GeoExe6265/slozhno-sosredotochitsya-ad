@@ -1,0 +1,18 @@
+:root {
+    --bg-color: #fff1f7;
+    --accent-color: #ff8dcb;
+    --title-color: #353430;
+    --text-color: #353430;
+    --title-decor-color: #353430;
+    --title-decor-bg: #ff8dcb;
+    --header-title-color: #ffc2e6;
+    --button-color: #353430;
+    --button-hover-color: rgba(50, 49, 45, 0.4);
+    --link-shadow-color: #ff8dcb;
+    --bg-image: url("../images/cover-image-light.png");
+    --font-family: "IBM Plex mono", monospace;
+    --font-weight-normal: 400;
+    --font-weight-bold: 700;
+    --mobile-font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
+    --desktop-font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
+}
