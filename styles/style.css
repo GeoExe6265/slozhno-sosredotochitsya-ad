@@ -495,10 +495,10 @@
   }
   
   .content__gallery-image:nth-of-type(5) {
-      grid-column-start: 2; 
-      grid-column-end: 4;
-      grid-row-start: 4;
-      grid-row-end: 5;
+    grid-column-start: 2;
+    grid-column-end: 4;
+    grid-row-start: 4;
+    grid-row-end: 5;
   }
 
   .content__section:nth-child(1) {
